@@ -23,7 +23,7 @@ REPOS=(
 )
 
 # Base directory for cloning repositories
-BASE_DIR=~/Sites/DevOps
+BASE_DIR=../
 # Ensure base directory exists
 mkdir -p "$BASE_DIR"
 
